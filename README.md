@@ -1,15 +1,7 @@
 # go-whosonfirst-index-bucket
 
-Work in progress.
+## Important
 
-## Example
+This package is no longer maintained.
 
-```
-go run -mod vendor cmd/wof-index-count/main.go -dsn 'bucket://file/usr/local/data/sfomuseum-data-media-collection/data' ''
-2019/11/20 16:44:56 35089 0
-```
-
-## See also
-
-* https://github.com/whosonfirst/go-whosonfirst-index
-* https://gocloud.dev/howto/blob/
+It has been replaced by [whosonfirst/go-whosonfirst-iterate-bucket](https://github.com/whosonfirst/go-whosonfirst-iterate-bucket). You should use that instead.
